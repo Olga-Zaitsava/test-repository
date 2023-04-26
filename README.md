@@ -1,2 +1,2 @@
-# test-repository
+# moj-repository
 First repository
